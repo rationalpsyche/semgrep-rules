@@ -1,0 +1,18 @@
+[submodule "0xdea"]
+	path = 0xdea
+	url = https://github.com/0xdea/semgrep-rules.git
+[submodule "federicodotta"]
+	path = federicodotta
+	url = https://github.com/federicodotta/semgrep-rules.git
+[submodule "mindedsecurity"]
+	path = mindedsecurity
+	url = https://github.com/mindedsecurity/semgrep-rules-android-security.git
+[submodule "trailofbits"]
+	path = trailofbits
+	url = https://github.com/trailofbits/semgrep-rules.git
+[submodule "dgryski"]
+	path = dgryski
+	url = https://github.com/dgryski/semgrep-go.git
+[submodule "elttam"]
+	path = elttam
+	url = https://github.com/elttam/semgrep-rules.git
