@@ -16,3 +16,6 @@
 [submodule "elttam"]
 	path = elttam
 	url = https://github.com/elttam/semgrep-rules.git
+[submodule "doyensec"]
+	path = doyensec
+	url = https://github.com/doyensec/Unsafe-Unpacking.git
